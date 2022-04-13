@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Blessing</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/blessingcena" target="blank"><img src="https://img.shields.io/twitter/follow/blessingcena?logo=twitter&style=for-the-badge" alt="blessingcena" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://blessingportfolio.netlify.app/](https://blessingportfolio.netlify.app/)
 
 - 📫 How to reach me **blessing.dx@gmail.com**
+
+- 💬 Reach me on LinkedIn **https://www.linkedin.com/in/blessingjeff/**
+
+<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
