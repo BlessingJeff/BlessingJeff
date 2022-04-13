@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Blessing</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlessingJeff&label=Profile%20views&color=blueviolet" alt="BlessingJeff" /> </p>
+
 - 🌱 I’m currently learning **AWS.**
 
 - 👨‍💻 All of my projects are available at [https://blessingportfolio.netlify.app/](https://blessingportfolio.netlify.app/)
