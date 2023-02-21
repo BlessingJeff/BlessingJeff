@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blessing</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlessingJeff&label=Profile%20views&color=blueviolet" alt="BlessingJeff" /> </p>
 
